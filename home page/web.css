@@ -11,31 +11,8 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
-    animation-name: slider;
-    animation-duration: 20s;
-    animation-timing-function: ease-in-out;
-    animation-iteration-count: infinite;
     height: 100vh;
 }
-
-/* @keyframes slider {
-    0%{
-        background-image: url(background.webp);
-    }
-    25%{
-        background-image: url(image1.jpg);
-    }
-    50%{
-        background-image: url(image2.jpg);
-    }
-    75%{
-        background-image: url(image3.webp);
-    }
-    100%{
-        background-image: url(image4.jpg);
-    }
-    
-} */
 
 .nav {
     display: flex;
@@ -106,7 +83,6 @@
     cursor: pointer;
 }
 
-
 .center-quote {
     text-align: center;
     display: flex;
@@ -115,8 +91,6 @@
     width: 100%;
     margin-top: 20px;
 }
-
-
 
 .quote {
     padding: 250px 500px;
@@ -145,7 +119,6 @@
     font-size: 17px;
     color: aliceblue;
     background: none;
-
 }
 
 .btn-travel:hover {
@@ -153,7 +126,6 @@
     color: black;
     cursor: pointer;
 }
-
 
 .bars {
     display: none;
@@ -168,8 +140,6 @@
     height: 5px;
     margin: 5px;
 }
-
-
 
 @media only screen and (max-width: 1630px) {
 
@@ -225,10 +195,6 @@
 
 }
 
-
-
-
-
 @media only screen and (max-width: 1020px) {
 
     .nav {
@@ -252,7 +218,6 @@
         height: 65px;
 
     }
-
 
     .nav-bar {
         position: fixed;
@@ -295,11 +260,7 @@
     .btn-travel {
         font-size: 13px;
     }
-
-
-
 }
-
 
 @media only screen and (min-height: 1000px) {
     .center-quote {
@@ -333,9 +294,6 @@
         font-size: 13px;
     }
 }
-
-
-
 
 @media only screen and (max-width: 420px) {
 
@@ -403,21 +361,11 @@
     }
 }
 
-
 @media only screen and (max-width: 282px) {
     .nav-bar {
         padding: 5px 0%;
     }
 }
-
-
-
-
-
-
-
-
-
 
 .p-d {
     padding: 40px 40px;
@@ -546,8 +494,6 @@
 }
 
 @media only screen and (max-width: 1030px) {
-
-
     .p-d {
         padding: 0px 0px;
     }
@@ -602,9 +548,6 @@
     .head-rev {
         margin-left: 320px;
     }
-
-
-
 }
 
 @media only screen and (max-width: 700px) {
@@ -776,9 +719,6 @@
     .recent-subhead {
         font-size: 25px;
     }
-
-
-
 }
 
 @media only screen and (max-width: 1030px) {
@@ -830,8 +770,6 @@
         text-align: center;
     }
 }
-
-
 
 .footer {
     background-color: black;
