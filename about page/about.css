@@ -3,16 +3,7 @@
     margin: 0px;
     padding: 0px;
 }
-.about {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Righteous', cursive;
-    padding: 170px 100px;
-    font-size: 64px;
-    font-weight: bolder;
-    background-color: rgb(68, 219, 206);
-}
+
 .list {
     font-family: 'Roboto Condensed', cursive;
     font-size: 20px;
