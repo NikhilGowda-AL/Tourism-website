@@ -10,21 +10,21 @@ We have curated a range of exciting destinations and attractions, all easily acc
 ## Screenshots
 
 ### Home page
-![ALT](images/homepage.png)
+![ALT](/images/homepage.png)
 
 ### Popular destinations
-![ALT](images/destination1.png)
+![ALT](/images/destination1.png)
 
-![ALT](images/destination2.png)
+![ALT](/images/destination2.png)
 
 ### About page 
-![ALT](images/about.png)
+![ALT](/images/about.png)
 
 ### Services page
-![ALT](images/service.png)
+![ALT](/images/service.png)
 
 ### Login page
-![ALT](images/contactpage.png)
+![ALT](/images/contactpage.png)
 
 ### Footer
-![ALT](images/footer.png)
+![ALT](/images/footer.png)
