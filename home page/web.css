@@ -21,7 +21,7 @@
     padding: 5px 20px;
     border-radius: 27px;
     box-shadow: 10px 21px 20px 10px rgb(0, 0, 0, 0.7);
-    position: fixed;
+    /* position: fixed; */
 }
 .logo {
     margin-top: 20px;
@@ -80,7 +80,7 @@
     margin-top: 20px;
 }
 .quote {
-    padding: 250px 500px;
+    padding: 140px 500px;
     padding-bottom: 0%;
     font-family: 'Roboto Slab', serif;
     font-size: 40px;
