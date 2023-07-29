@@ -12,19 +12,29 @@ We have curated a range of exciting destinations and attractions, all easily acc
 ### Home page
 ![ALT](/images/homepage.png)
 
+
+
 ### Popular destinations
 ![ALT](/images/destination1.png)
 
 ![ALT](/images/destination2.png)
 
+
+
 ### About page 
 ![ALT](/images/about.png)
+
+
 
 ### Services page
 ![ALT](/images/service.png)
 
+
+
 ### Login page
 ![ALT](/images/contactpage.png)
+
+
 
 ### Footer
 ![ALT](/images/footer.png)
