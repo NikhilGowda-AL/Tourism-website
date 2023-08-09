@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Pacifico&family=Righteous&family=Roboto+Condensed:wght@300&family=Roboto+Slab&family=Roboto:wght@300&family=Ubuntu:wght@400;700&display=swap');
 
-
 * {
     margin: 0;
     padding: 0;
@@ -21,7 +20,6 @@
     padding: 5px 20px;
     border-radius: 27px;
     box-shadow: 10px 21px 20px 10px rgb(0, 0, 0, 0.7);
-    /* position: fixed; */
 }
 .logo {
     margin-top: 20px;
@@ -66,7 +64,6 @@
     font-size: 17px;
     background: none;
 }
-
 .btn:hover {
     background-color: rgb(229, 227, 93);
     cursor: pointer;
@@ -155,9 +152,7 @@
     .destiny {
         padding: 10px 320px;
         font-size: 20px;
-
     }
-
     .btn-sign {
         padding-left: 30px;
     }
@@ -181,10 +176,8 @@
     .v-class {
         opacity: 0;
     }
-
     .h-class {
         height: 65px;
-
     }
     .nav-bar {
         position: fixed;
@@ -193,7 +186,6 @@
         padding: 5px 18.5%;
         top: 25px;
         background-image: url(background.webp);
-
     }
 
     .nav-list {
@@ -221,9 +213,7 @@
     .destiny {
         padding: 10px 150px;
         font-size: 15px;
-
     }
-
     .btn-travel {
         font-size: 13px;
     }
