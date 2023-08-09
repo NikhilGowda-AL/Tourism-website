@@ -57,7 +57,7 @@
     margin-left: 50px;
     margin: 10px;
 }
-.btn {
+.btn,.btn-travel {
     padding: 5px 17px;
     font-family: 'Roboto Slab', serif;
     font-weight: bolder;
@@ -93,16 +93,6 @@
     font-size: 30px;
     font-weight: 800;
     color: rgb(7, 79, 142);
-}
-.btn-travel {
-    padding: 5px 17px;
-    font-family: 'Roboto Slab', serif;
-    font-weight: bolder;
-    border: 3px solid black;
-    border-radius: 14px;
-    font-size: 17px;
-    color: aliceblue;
-    background: none;
 }
 .btn-travel:hover {
     background-color: rgb(229, 227, 93);
